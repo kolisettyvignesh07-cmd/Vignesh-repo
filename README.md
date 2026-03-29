@@ -30,10 +30,6 @@ Aspiring AI Engineer with a strong interest in machine learning, data science, a
 - VS Code  
 - Google Colab  
 
-## 📂 Projects
-- 🔹 *Coming Soon*: Actively working on AI and ML-based projects  
-- 🔹 Will showcase projects on Machine Learning & Data Science  
-
 ## 📈 Goals for 2025
 - Build and deploy real-world AI projects  
 - Strengthen DSA and coding skills  
