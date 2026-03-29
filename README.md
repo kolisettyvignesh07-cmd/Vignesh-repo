@@ -15,14 +15,12 @@ Aspiring AI Engineer with a strong interest in machine learning, data science, a
 - 📊 Data Science & Data Analysis  
 - 🤖 Machine Learning Basics  
 - 🧩 Problem Solving & Algorithms  
-- 🔗 Git & GitHub Collaboration  
-- 💻 Basic Web Development (HTML, CSS, JS)  
+- 🔗 Git & GitHub Collaboration   
 
 ## 📚 Currently Learning
 - Deep Learning & Neural Networks  
 - Data Structures & Algorithms  
 - Real-world AI Project Development  
-- Cloud & Deployment Basics  
 
 ## 🛠️ Tools & Platforms
 - GitHub  
@@ -30,11 +28,10 @@ Aspiring AI Engineer with a strong interest in machine learning, data science, a
 - VS Code  
 - Google Colab  
 
-## 📈 Goals for 2025
+## 📈 Goals
 - Build and deploy real-world AI projects  
 - Strengthen DSA and coding skills  
-- Contribute to open-source projects  
-- Secure an internship in AI/ML domain  
+- Contribute to open-source projects   
 
 ## 🤝 Soft Skills
 - Team Collaboration  
